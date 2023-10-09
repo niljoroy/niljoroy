@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
 <b>Hi, My name is Niljo Roy. I am a data professional.<b>
